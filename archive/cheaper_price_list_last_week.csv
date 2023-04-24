@@ -1,0 +1,6 @@
+result_name,release_yr,latest_captured_price_usd,latest_captured_timestamp,is_cheaper,difference,last_week_price_usd,last_week_captured_timestamp,is_cheaper_last_week,difference_last_week
+Assassins Creed Valhalla Complete Edition,2022,43.7668,01/31/23 15:23:59,True,-0.18479999999999608,45.507000000000005,01/23/23 15:35:44,True,-1.7401999999999984
+Persona 5 Royal,2020,41.2566,01/31/23 15:24:18,True,-0.16939999999999913,59.521,01/23/23 15:36:09,True,-18.2644
+Soul Hackers 2,2016,33.3102,01/31/23 15:24:22,True,-0.13859999999999978,34.9272,01/23/23 15:36:15,True,-1.617000000000001
+Soul Hackers 2 Digital Deluxe Edition,2015,45.6302,01/31/23 15:24:22,True,-0.18480000000000155,48.7256,01/23/23 15:36:15,True,-3.0954000000000024
+Devil May Cry 5 Special Edition,2019,18.711000000000002,01/31/23 15:24:28,True,-0.09240000000000077,23.3156,01/23/23 15:36:19,True,-4.6046000000000005

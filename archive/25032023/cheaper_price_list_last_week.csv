@@ -1,0 +1,13 @@
+result_name,release_yr,latest_captured_price_usd,latest_captured_timestamp,is_cheaper,difference,last_week_price_usd,last_week_captured_timestamp,is_cheaper_last_week,difference_last_week
+Code Vein Deluxe Edition,2019,5.361300000000001,03/25/23 08:07:11,True,-0.06440000000000005,7.3738,03/21/23 07:08:33,True,-2.0125
+Dragon Quest Xi S Echoes Of An Elusive Age Definitive Edition,2019,16.7923,03/25/23 08:07:12,False,,19.674200000000003,03/21/23 07:08:33,True,-2.8819000000000017
+Assassins Creed Valhalla Immortals Fenyx Rising Bundle,2019,20.1572,03/25/23 08:07:18,False,,33.4397,03/21/23 07:08:40,True,-13.2825
+Bayonetta Vanquish 10Th Anniversary Bundle,2018,10.384500000000001,03/25/23 08:07:16,False,,12.2521,03/21/23 07:08:38,True,-1.8676000000000004
+Forza Horizon 5 Deluxe Edition,2021,60.5038,03/25/23 08:07:16,True,-4.1699000000000055,63.69160000000001,03/21/23 07:08:38,True,-3.1878000000000064
+Immortals Fenyx Rising Gold Edition,2021,13.4274,03/25/23 08:07:18,False,,25.454100000000004,03/21/23 07:08:40,True,-12.026700000000002
+Ni No Kuni Wrath Of The White Witch Remastered,2013,33.777800000000006,03/25/23 08:07:20,False,,45.3537,03/21/23 07:08:43,True,-11.575900000000003
+Octopath Traveler,2021,21.8316,03/25/23 08:07:24,True,-9.6761,31.0569,03/21/23 07:08:47,True,-9.225299999999999
+Persona 5 Royal,2018,33.5524,03/25/23 08:07:26,False,,41.9566,03/21/23 07:08:50,True,-8.4042
+Soul Hackers 2,2022,24.1661,03/25/23 08:07:29,False,0.048299999999998976,49.185500000000005,03/21/23 07:08:52,True,-25.019400000000005
+The Witcher 3 Wild Hunt Game Of The Year Edition,,6.5366,03/25/23 08:07:33,False,,9.8049,03/21/23 07:08:56,True,-3.2683000000000004
+Crisis Core Final Fantasy Vii Reunion Digital Deluxe Edition,2015,70.5502,03/25/23 08:07:34,True,-24.1017,78.82560000000001,03/21/23 07:08:57,True,-8.275400000000001

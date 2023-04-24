@@ -1,0 +1,5 @@
+py -m venv "name of venv"
+./Scripts/activate
+ py -m  pip install -r requirements.txt
+ipython kernel install --name "name of venv" --user
+restart vscode and restart kernel (>1 time)
